@@ -1,3 +1,12 @@
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Victorliveira&hide_progress=true&langs_count=4&hide_values=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=Victorliveira&hide_progress=true&langs_count=4&hide_values=true&theme=midnight-purple)
+
+
+
+
+
+
+
+
 ## Hi there 👋
 
 <!--
